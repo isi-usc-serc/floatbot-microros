@@ -1,0 +1,5 @@
+repositories:
+    floatbot_microros/micro_ros_stm32cubemx_utils:
+        type: git
+        url: https://github.com/micro-ROS/micro_ros_stm32cubemx_utils.git
+        version: jazzy
