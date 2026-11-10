@@ -50,5 +50,8 @@ qtcreator-*
 # Catkin custom files
 CATKIN_IGNORE
 
+# vscode
+.vscode/
+
 # external dependencies
 micro_ros_stm32cubemx_utils/
